@@ -1,0 +1,42 @@
+.tabUserName{
+    border: medium solid black;
+    width: 20%;
+    text-align: center;
+}
+.tabUserFname{
+    border: medium solid black;
+    width: 20%;
+    text-align: center;
+}
+.tabUserAddress{
+    border: medium solid black;
+    width: 20%;
+    text-align: center;
+}
+.tabUserBD{
+    border: medium solid black;
+    width: 5%;
+    text-align: center;
+}
+.tabUserCP{
+    border: medium solid black;
+    width: 5%;
+    text-align: center;
+}
+.tabUserPhone{
+    border: medium solid black;
+    width: 10%;
+    text-align: center;
+}
+.tabUserService{
+    border: medium solid black;
+    width: 2%;
+    text-align: center;
+}
+body
+{
+    background-color: aliceblue;
+}
+.titleList{
+    text-decoration: blink;
+}
